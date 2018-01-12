@@ -97,7 +97,7 @@ header h1 {
   text-align: center;
 }
 
-#image-holder {
+#img-div {
   flex-direction: column;
   align-items: center;
 }
